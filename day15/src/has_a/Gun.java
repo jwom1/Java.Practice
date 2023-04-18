@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package has_a;
 
 public class Gun {
@@ -24,3 +25,10 @@ public class Gun {
 		this.bullet = 5;
 	}
 }
+=======
+package has_a;
+
+public class Gun {
+
+}
+>>>>>>> 56130b390091cffdd27dae4b4f588786badff995

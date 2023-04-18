@@ -8,7 +8,7 @@ public class Account {
 		return this.balance;
 	}	
 	
-	public void deposit(int money) {
+	public void deposit(int money) throws DepositMinusMonetException {
 		if(money < 0) {
 			throw new DepositMinusMonetException("음수로 입금할 수 없습니다.");
 		}

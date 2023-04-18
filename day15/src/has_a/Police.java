@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package has_a;
 
 public class Police {
@@ -23,3 +24,10 @@ public class Police {
 		System.out.println("키 : " + this.height);
 	}
 }
+=======
+package has_a;
+
+public class Police {
+
+}
+>>>>>>> 56130b390091cffdd27dae4b4f588786badff995

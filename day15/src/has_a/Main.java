@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package has_a;
 
 public class Main {
@@ -17,3 +18,15 @@ public class Main {
 
 	}
 }
+=======
+package has_a;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+>>>>>>> 56130b390091cffdd27dae4b4f588786badff995
